@@ -1,0 +1,1 @@
+# Kubernetes-Vote-app-yaml
